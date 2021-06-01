@@ -55,7 +55,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 
-FUKING_USER = str(ALIVE_NAME) if ALIVE_NAME else "вℓα¢к ℓιgнтηιηg"
+FUKING_USER = str(ALIVE_NAME) if ALIVE_NAME else "ℓιση υsεявσт"
 
 TG = str(TG_GRUP) if TG_GRUP else "Not  Yet😁😁"
 TG_CHANN = str(TG_CHANNEL) if TG_CHANNEL else "Not Yet😁😁"
@@ -65,7 +65,7 @@ SHASHANKXD = VAR.ALIVEPOTO if ALIVEPOTO else "https://telegra.ph/file/9c919ae0a8
 from Lion import CMD_LIST
 
 theshashankk = "**Lɪᴏɴ ᴜsᴇʀʙᴏᴛ Is ᴀʟɪᴠᴇ**\n\n"
-theshashankk += f"**му ρєяσ мαѕтєя**          : {DEFAULTUSER}\n"
+theshashankk += f"**му ρєяσ мαѕтєя**          : {FUKING_USER}\n"
 theshashankk += f"🚑 𝚂𝚄𝙿𝙿𝙾𝚁 𝙶𝚁𝙾𝚄𝙿 🚑 : [Lion Support](telegram.dog/LionXsupport)\n"  
 theshashankk += f"ℹ️ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: "
 theshashankk += f"`𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽`       : {lionver}\n"
