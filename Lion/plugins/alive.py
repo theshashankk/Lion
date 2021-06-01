@@ -62,7 +62,7 @@ TG_CHANN = str(TG_CHANNEL) if TG_CHANNEL else "Not Yet😁😁"
 
 SHASHANKXD = VAR.ALIVEPOTO if ALIVEPOTO else "https://telegra.ph/file/9c919ae0a8f31d70a8dfe.jpg"
 
-from Lion import CMD_LIST
+from Lion import CMD_HELP
 
 theshashankk = "**Lɪᴏɴ ᴜsᴇʀʙᴏᴛ Is ᴀʟɪᴠᴇ**\n\n"
 theshashankk += f"**му ρєяσ мαѕтєя**          : {FUKING_USER}\n"
