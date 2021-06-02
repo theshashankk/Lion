@@ -57,7 +57,7 @@ TG_CHANN = str(TG_CHANNEL) if TG_CHANNEL else "Not Yet😁😁"
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "@LionXsupport"
 
-SHASANKXD = VAR.ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/9c919ae0a8f31d70a8dfe.jpg"
+SHASANKXD = "https://telegra.ph/file/9c919ae0a8f31d70a8dfe.jpg"
 
 theshashank = "**үσσ!! ℓιση υsεявσт ιs αℓιvε**\n\n"
 theshashank += f"**𝐌𝐘 𝐏𝐄𝐑𝐎 𝐌𝐀𝐒𝐓𝐄𝐑**          : {DEFAULTUSER}\n"
