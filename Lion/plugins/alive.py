@@ -54,7 +54,7 @@ def get_readable_time(seconds: int) -> str:
 TG = str(TG_GRUP) if TG_GRUP else "Not  Yet😁😁"
 TG_CHANN = str(TG_CHANNEL) if TG_CHANNEL else "Not Yet😁😁"
 
- BOT_USERNAME = VAR.TG_BOT_USER_NAME if TG_BOT_USER_NAME else none
+
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "@LionXsupport"
 
 SHASANKXD = VAR.ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/9c919ae0a8f31d70a8dfe.jpg"
@@ -65,7 +65,6 @@ theshashank += f"𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿 : [here](t.me
 theshashank += f"𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : [here](LionXupdates)\n\n"
 theshashank += f"`𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽`       : 1.0\n"
 theshashank += "`𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽`           : 3.9.0\n\n"
-theshashank += "`𝐘𝐎𝐔𝐑 𝐀𝐒𝐒𝐈𝐒𝐓𝐀𝐍𝐓👾`          : {BOT_USERNAME} \n"
 theshashank += "𝙈𝙔 𝘿𝙀𝙑 👇👇\n"
 theshashank += "[✘ 𝐒𝐇𝐀𝐒𝐇𝐀𝐍𝐊 ✘](t.me/shashankxD\n"
 theshashank += "[✘ 𝐌𝐃 𝐍𝐎𝐎𝐑 ✘](t.me/SimpleBoy786)"
